@@ -1,0 +1,23 @@
+{
+  "name": "ds_static_server",
+  "version": "0.1.0",
+  "description": "Basic Static Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieluy/ds_static_server.git"
+  },
+  "author": "danielsosa.dev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieluy/ds_static_server/issues"
+  },
+  "homepage": "https://github.com/danieluy/ds_static_server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
